@@ -12,4 +12,8 @@
         <item name="android:background">@drawable/button_shape_shadowed</item>
     </style>
 
+    <style name="RemoteButton.ExtraButton">
+        <item name="android:textSize">35dp</item>
+    </style>
+
 </resources>
